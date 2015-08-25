@@ -1,0 +1,1 @@
+MongoTasks = new Mongo.Collection("tasks");
